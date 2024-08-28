@@ -1,0 +1,8 @@
+
+Flask
+FlaskSQLAlchemy
+CORS
+PostgreSQL
+Fetch
+Async
+PEP8
